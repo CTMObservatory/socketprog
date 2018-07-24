@@ -41,3 +41,10 @@ and
 
     $ python xmlclient.py
     
+------------------------
+
+### References:
+
+- Sockets tutorial (C): http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
+- Sockets in Python: https://docs.python.org/3.6/library/socket.html
+- XML RPC: https://docs.python.org/3.6/library/xmlrpc.client.html
